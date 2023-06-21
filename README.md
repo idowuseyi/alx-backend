@@ -1,1 +1,1 @@
-Queuing system using redis
+ALX Software Engineering specialization on Backend operations.
